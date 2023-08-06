@@ -1,0 +1,147 @@
+body{
+	font-size: 16px;
+	font-family: "Sans-serif", monospace;
+	color: #FFF;	
+	background-color: black;
+	outline: none;
+}
+.section
+{
+	clear: both;
+	text-align: center;
+	margin: 45px 180px;
+}
+.main{
+	height: auto;
+	margin-top: 60px;
+}
+.h1{
+    font-weight: 500;
+    line-height: 1.2;
+    font-size: 36px;
+}
+.h2, .h3, .h4, .h5, .h6, h1, h2, h3, h4, h5, h6
+{	
+	font-weight: 500;
+	font-size: 20px;
+	line-height: 1.2;
+}
+.a1{
+	width:75%;
+	float: left;
+}
+.b1{
+	width: 25%;
+	float: right;
+	text-align: center;
+}
+.a1block2{
+	height:500px;
+	width:35%;
+	float: left;
+}
+.b1block2{
+	height:500px;
+	width: 63%;
+	float: right;
+	text-align: center;
+}
+.a1SecondBlock{
+	height:200px;
+	width:500px;
+	float: left;
+}
+.b1SecondBlock{
+	height:200px;
+	width: 500px;
+	float: right;
+	text-align: center;
+}
+.a2{
+	height: 500px;
+	width: 1000px;
+}
+.LeftBanner {
+    height: 200px;
+    width: 200px;
+    margin-top: 50px;
+}
+.textcontainer
+{
+	padding-top: 35px;
+	text-align: left;
+	float: left;
+	margin-left: 50PX;
+}
+.grid-container {
+  	display: grid;
+    grid-template-columns: auto auto auto;
+    margin-left: -160px;
+}
+.grid-item {
+    border: 1px solid rgba(0, 0, 0, 0.8);
+    padding: 20px;
+    margin: 10px;
+    text-align: center;
+    background-color: whitesmoke;
+    color: black;
+}
+.main3{
+	width: 1000px;
+	background-color: black;
+	margin-top: 60px;
+}
+.secondblock
+{
+	margin-left: -200px;
+}
+.floatleft
+{
+	float: left;
+	width: 75%;
+}
+.floatright
+{
+	float: right;
+	width: 25%;
+}
+.button {
+   background-color: #4CAF50;
+    border: none;
+    color: white;
+    padding: 10px 30px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 15px;
+    margin: 4px 2px;
+    cursor: pointer;
+    border-radius: 15px;
+    width: 150px;
+}
+.studentImages
+{
+	height: 100px;
+	width: 100px;
+}
+.grid-container1 {
+  	display: grid;
+    grid-template-columns: auto auto auto;
+    margin-left: -160px;
+}
+.grid-item1 {
+    border: 1px solid rgba(12, 24, 16, 0.8);
+    padding: 20px;
+    margin: 10px;
+    text-align: center;
+    background-color: whitesmoke;
+    color: black;
+}
+.k1{
+	position: relative;
+	left;
+}
+.in1{
+	margin-left: 22px;
+	border-radius: 15px;
+}
